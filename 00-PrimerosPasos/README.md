@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-## Primeros Pasos
+## Primeros Pasos console.log("ACA ARRANCA")
 
 ### Preparando tu compu:
 
